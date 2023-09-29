@@ -14,22 +14,8 @@
         System.out.println("Section: " + section);
         System.out.println("Motto: " + motto);
 
-public class info {
-
-  public static void main(String[] args) {
-   
-   
- 
-       
-  
-        student student1 = new student("Loren Dacol", "IT24", "Learn from yesterday, live for today, hope for tomorrow.");
-        
-        student1.displayDetails();
-       
-       
-       
-       System.out.println("this is my info ");
-       student1.displayDetails();
+    }
+ }
        
     }
 }
